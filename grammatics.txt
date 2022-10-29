@@ -1,0 +1,32 @@
+if (
+for (
+do while
+while (
+input (
+output (
+else { output input _var _number - ! int float bool 
+( _var _number ! - int float bool 
+! _var _number
+_var NE EQ LT LE GT GE ass + - or * / and ) , ;
+_number NE EQ LT LE GT GE + - or * / and ) , ;
+; { } output input for while if else _var _number int float bool do
+NE _var _number ! -
+EQ _var _number ! -
+LE _var _number ! -
+GE _var _number ! -
+LT _var _number ! -
+GT _var _number ! -
+ass _var _number ! -
++ _var _number ! -
+- _var _number ! -
+or _var _number ! -
+* _var _number ! -
+/ _var _number ! -
+and _var _number ! -
+) { } output input for while if else _var _number int float bool do ;
+{ { } output input for while if else _var _number int float bool do
+} { } output input for while if else _var _number int float bool loop do
+loop { } output input for while if else _var _number int float string loop do ;
+int _var
+float _var
+bool _var

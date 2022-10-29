@@ -1,0 +1,27 @@
+int x;
+int y;
+input(x);
+input(y);
+output(x);
+
+if(x GE y or x EQ 1){
+  output(x*y);
+} else{
+  output(y);
+}
+
+for(int i ass 0; i LT 5; i ass i+1){
+  output(x-i);
+} 
+
+do while(bool b ass True){
+  b ass False;
+}  loop;
+
+for(int j ass 0; j LT y; j ass j+2){
+  do while(bool b ass True){
+    if(x LT j){
+      b ass False;
+    }loop;
+  }
+}
